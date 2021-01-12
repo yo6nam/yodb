@@ -422,7 +422,7 @@
         },
         "Constanta_DStar": {
             "banda": "D-Star YO Network",
-            "description": "<center>YO6NAM / Razvan<br/>YO4TTE / Marius<br/><b><a href='http://www.xpander.ro' target=_new>XPANDER</a> / <a href='https://www.dstar-yo.ro' target=_new>D-Star YO</a></b></center>",
+            "description": "<center>YO6NAM / Razvan<br/>YO4TTE / Marius<br/><b><a href='http://www.xpander.ro' target=_new>XPANDER</a> / <a href='https://www.dstar-yo.ro' target=_new>D-Star YO</a></b></center><br><br>RPT1: YO4TTE B<br>RPT2: YO4TTE G<br>Reflector: XLXCAT",
             "dist": 50,
             "functional": "activ",
             "k_id": "constanta_vx",
