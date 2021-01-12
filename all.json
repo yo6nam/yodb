@@ -1113,6 +1113,28 @@
             "tx_frq": "439.325",
             "type": "radio"
         },
+        "Semenic_YO2KCB-B": {
+            "banda": "D-Star YO Network",
+            "description": "<center>YO2KCB<br/><b><a href='http://www.dstar-yo.ro' target=_new>D-Star YO</a></b></center><br/>RPT1: YO2KCB B<br/>RPT2: YO2KCB G<br/>Reflector: XLX227",
+            "dist": 50,
+            "functional": "activ",
+            "k_id": "n_a",
+            "lat": 45.1828,
+            "lon": 22.0534,
+            "name": "Semenic, Vf. Goszna YO2KCB",
+            "nameA": "Semenic, Vf. Gozna YO2KCB",
+            "online": 1,
+            "overlay": "dstar",
+            "pl_in": "",
+            "pl_out": "",
+            "portabil": 0,
+            "rx_frq": "",
+            "shift": "-7.6",
+            "tip": "repetor",
+            "tx_frq": "439.325",
+            "type": "radio"
+        },
+
         "SfGheorghe_Tetra": {
             "banda": "TETRA",
             "description": "YO6HEG / Andrei<br/><b>Tetra YO Master</b><br/>GSSI: 1<br/>MCC: 901<br/>MNC: 16383",
@@ -1218,6 +1240,28 @@
             "tx_frq": "439.925",
             "type": "radio"
         },
+        "TalvaMare_YO2KJG-B": {
+            "banda": "D-Star YO Network",
+            "description": "<center>YO2KCB / YO2LYN (Stefan)<br/><b><a href='http://www.dstar-yo.ro' target=_new>D-Star YO</a></b></center><br/>RPT1: YO2KJG B<br/>RPT2: YO2KJG G<br/>Reflector: XLX227",
+            "dist": 50,
+            "functional": "activ",
+            "k_id": "n_a",
+            "lat": 45.072,
+            "lon": 21.938,
+            "name": "Talva Mare (Oravita) YO2KJG",
+            "nameA": "Talva Mare (Oravita) YO2KJG",
+            "online": 1,
+            "overlay": "dstar",
+            "pl_in": "",
+            "pl_out": "",
+            "portabil": 0,
+            "rx_frq": "430.525",
+            "shift": "-9.4",
+            "tip": "repetor",
+            "tx_frq": "439.925",
+            "type": "radio"
+        },
+
         "Tampa": {
             "banda": "SVX Net",
             "description": "<center>YO6NAM / Razvan<br/><b><a href='http://www.xpander.ro' target=_new>XPANDER</a></b></center>",
