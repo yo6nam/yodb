@@ -3,7 +3,7 @@
         "Agigea_UHF": {
             "banda": "Repetor UHF",
             "description": "<center>YO4ISC / Cristel</center>",
-            "dist": 50,
+            "dist": 51,
             "functional": "activ",
             "k_id": "n_a",
             "lat": 44.1005,
