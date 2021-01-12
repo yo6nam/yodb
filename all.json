@@ -1243,7 +1243,7 @@
         "TalvaMare_YO2KJG-B": {
             "banda": "D-Star YO Network",
             "description": "<center>YO2KCB / YO2LYN (Stefan)<br/><b><a href='http://www.dstar-yo.ro' target=_new>D-Star YO</a></b></center><br/>RPT1: YO2KJG B<br/>RPT2: YO2KJG G<br/>Reflector: XLX227",
-            "dist": 50,
+            "dist": 51,
             "functional": "activ",
             "k_id": "n_a",
             "lat": 45.072,
