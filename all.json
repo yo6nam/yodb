@@ -317,7 +317,7 @@
         },
         "Bucuresti_YO3E": {
             "banda": "RVSU Network / DMR+",
-            "description": "<center><b><a href='http://www.rvsu.ro' target=_new>RVSU</a></b></center>TS1: 1, 2<br/>TS2: 226, 9"",
+            "description": "<center><b><a href='http://www.rvsu.ro' target=_new>RVSU</a></b></center>TS1: 1, 2<br/>TS2: 226, 9",
             "dist": 50,
             "functional": "activ",
             "k_id": "n_a",
