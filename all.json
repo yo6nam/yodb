@@ -1683,6 +1683,27 @@
             "tx_frq": "439.850",
             "type": "radio"
         },
+        "Targu_Jiu_DStar": {
+            "banda": "70cm",
+            "description": "<center>YO7UVM / Mihai<br/><b><a href='http://www.yo2kqt.ro' target=_new>YO2KQT</a></b><br><br><br>RPT1: YO7UVM B<br>RPT2: YO7UVM G<br>Reflector: XLXCAT</center>",
+            "dist": 50,
+            "functional": "activ",
+            "k_id": "n_a",
+            "lat": 45.061321,
+            "lon": 23.290499,
+            "name": "Târgu Jiu",
+            "nameA": "Târgu Jiu DMR",
+            "online": 1,
+            "overlay": "dstar",
+            "pl_in": "",
+            "pl_out": "",
+            "portabil": 0,
+            "rx_frq": "430.450",
+            "shift": "-9,4",
+            "tip": "repetor",
+            "tx_frq": "439.850",
+            "type": "radio"
+        },        
         "Vladeasa_UHF": {
             "banda": "Repetor UHF",
             "description": "<center></center>",
