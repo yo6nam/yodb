@@ -42,6 +42,27 @@
             "tx_frq": "439.050",
             "type": "radio"
         },
+        "BaiaMare-DStar": {
+            "banda": "D-Star YO Network",
+            "description": "<center>YO5OVY / Nelu<br/><b><a href='http://www.dstar-yo.ro' target=_new>D-Star YO</a></b></center><br/>RPT1: YO5OVY B<br/>RPT2: YO5OVY G<br/>Reflector: XLXCAT",
+            "dist": 40,
+            "functional": "activ",
+            "k_id": "albaiulia_u",
+            "lat": 47.6430,
+            "lon": 23.4983,
+            "name": "Baia Mare (YO5OVY-B)",
+            "nameA": "Baia Mare (YO5OVY-B)",
+            "online": 1,
+            "overlay": "dstar",
+            "pl_in": "",
+            "pl_out": "",
+            "portabil": 0,
+            "rx_frq": "0",
+            "shift": "0",
+            "tip": "simplex",
+            "tx_frq": "439.850",
+            "type": "radio"
+        },
         "Baicoi_UHF": {
             "banda": "Repetor UHF",
             "description": "<center></center>",
