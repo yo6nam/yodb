@@ -541,10 +541,10 @@
             "pl_in": "103.5",
             "pl_out": "123.0",
             "portabil": 0,
-            "rx_frq": "431.475",
+            "rx_frq": "431.525",
             "shift": "-7.6",
             "tip": "repetor",
-            "tx_frq": "439.075",
+            "tx_frq": "439.125",
             "type": "radio"
         },
         "Deva_YO2CK-B": {
@@ -1185,7 +1185,7 @@
             "k_id": "n_a",
             "lat": 45.1828,
             "lon": 22.0534,
-            "name": "Semenic, Vf. Goszna YO2KCB",
+            "name": "Semenic, Vf. Gozna YO2KCB",
             "nameA": "Semenic, Vf. Gozna YO2KCB",
             "online": 1,
             "overlay": "dmr_bm",
