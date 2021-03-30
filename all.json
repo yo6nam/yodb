@@ -63,6 +63,27 @@
             "tx_frq": "439.850",
             "type": "radio"
         },
+        "BaiaMare-DStar_YO3CAT-D": {
+            "banda": "D-Star YO Network",
+            "description": "<center>YO3CAT / Catalin<br/><b><a href='http://www.dstar-yo.ro' target=_new>D-Star YO</a></b></center><br/>RPT1: YO3CAT D<br/>RPT2: YO3CAT G<br/>Reflector: XLXCAT",
+            "dist": 40,
+            "functional": "activ",
+            "k_id": "albaiulia_u",
+            "lat": 47.6567,
+            "lon": 23.5550,
+            "name": "Baia Mare (YO3CAT-D)",
+            "nameA": "Baia Mare (YO3CAT-D)",
+            "online": 1,
+            "overlay": "dstar",
+            "pl_in": "",
+            "pl_out": "",
+            "portabil": 0,
+            "rx_frq": "431.725",
+            "shift": "-7.600",
+            "tip": "simplex",
+            "tx_frq": "439.325",
+            "type": "radio"
+        },
         "Baicoi_UHF": {
             "banda": "Repetor UHF",
             "description": "<center></center>",
