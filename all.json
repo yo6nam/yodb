@@ -315,7 +315,7 @@
             "tx_frq": "438.825",
             "type": "radio"
         },
-        "Cireşoaia": {
+        "Ciresoaia": {
             "banda": "SVX Net",
             "description": "<center>YO6AL / Alex</b></center>",
             "dist": 50,
@@ -378,7 +378,7 @@
             "tx_frq": "439.425",
             "type": "radio"
         },
-        "Constanţa": {
+        "Constanta": {
             "banda": "SVX Net",
             "description": "<center>YO6NAM / Razvan<br/>YO4TTE / Marius<br/><b><a href='http://www.xpander.ro' target=_new>XPANDER</a></b></center>",
             "dist": 50,
@@ -399,7 +399,7 @@
             "tx_frq": "145.4125",
             "type": "radio"
         },
-        "Constanţa_DStar": {
+        "Constanta_DStar": {
             "banda": "D-Star YO Network",
             "description": "<center>YO6NAM / Razvan<br/>YO4TTE / Marius<br/><b><a href='http://www.xpander.ro' target=_new>XPANDER</a> / <a href='https://www.dstar-yo.ro' target=_new>D-Star YO</a></b></center><br><br>RPT1: YO4TTE B<br>RPT2: YO4TTE G<br>Reflector: XLXCAT",
             "dist": 50,
@@ -421,7 +421,7 @@
             "type": "radio"
         },
 
-        "Constanţa_DMR": {
+        "Constanta_DMR": {
             "banda": "70cm",
             "description": "<center>YO6NAM / Razvan<br/>YO4TTE / Marius<br/><b><a href='http://www.xpander.ro' target=_new>XPANDER</a></b></center>",
             "dist": 50,
@@ -610,7 +610,7 @@
             "tx_frq": "435.500",
             "type": "radio"
         },
-        "Lăcăuţi_APRS": {
+        "Lacauti_APRS": {
             "banda": "2m",
             "description": "<center>YO6NAM / Razvan<br/><b><a href='http://www.xpander.ro' target=_new>XPANDER</a></b></center>",
             "dist": 50,
@@ -631,7 +631,7 @@
             "tx_frq": "144.800",
             "type": "radio"
         },
-        "Lăcăuţi_DMR": {
+        "Lacauti_DMR": {
             "banda": "70cm",
             "description": "<center>YO6NAM / Razvan<br/><b><a href='http://www.xpander.ro' target=_new>XPANDER</a></b></center>",
             "dist": 50,
@@ -652,7 +652,7 @@
             "tx_frq": "439.825",
             "type": "radio"
         },
-        "Lăcăuţi_YO6S": {
+        "Lacauti_YO6S": {
             "banda": "70cm",
             "description": "<center>YO6NAM / Razvan<br/><b><a href='http://www.xpander.ro' target=_new>XPANDER</a></b></center>",
             "dist": 50,
@@ -673,7 +673,7 @@
             "tx_frq": "439.000",
             "type": "radio"
         },
-        "Lăcăuţi_YO6T": {
+        "Lacauti_YO6T": {
             "banda": "2m",
             "description": "<center>YO6NAM / Razvan<br/><b><a href='http://www.xpander.ro' target=_new>XPANDER</a></b></center>",
             "dist": 50,
@@ -862,7 +862,7 @@
             "tx_frq": "438.600",
             "type": "radio"
         },
-        "Ploieşti": {
+        "Ploiesti": {
             "banda": "SVX Net",
             "description": "YO9FDX / Romica",
             "dist": 50,
@@ -946,7 +946,7 @@
             "tx_frq": "145.300",
             "type": "radio"
         },
-        "Postăvaru_DMR": {
+        "Postavaru_DMR": {
             "banda": "70cm",
             "description": "<center>YO6NAM / Razvan<br/><b><a href='http://www.xpander.ro' target=_new>XPANDER</a></b></center>",
             "dist": 50,
@@ -967,7 +967,7 @@
             "tx_frq": "439.775",
             "type": "radio"
         },
-        "Postăvaru_DStar": {
+        "Postavaru_DStar": {
             "banda": "70cm",
             "description": "<center>YO6NAM / Razvan<br/><b><a href='http://www.xpander.ro' target=_new>XPANDER</a> / <a href='https://www.dstar-yo.ro' target=_new>D-Star YO</a></b></center><br><br>RPT1: YO6NAM F<br>RPT2: YO6NAM F<br>Reflector: XLXCAT",
             "dist": 50,
@@ -1346,7 +1346,7 @@
             "tx_frq": "438.900",
             "type": "radio"
         },
-        "Tg Mures_YO6C": {
+        "TgMures_YO6C": {
             "banda": "DMR+",
             "description": "<center>YO6OSC</center>TS1: 226, 112<br/>TS2: 2266",
             "dist": 50,
@@ -1535,7 +1535,7 @@
             "tx_frq": "438.100",
             "type": "radio"
         },
-        "Tâmpa_APRS": {
+        "Tampa_APRS": {
             "banda": "2m",
             "description": "<center>YO6NAM / Razvan<br/><b><a href='http://www.xpander.ro' target=_new>XPANDER</a></b></center>",
             "dist": 50,
@@ -1556,7 +1556,7 @@
             "tx_frq": "144.800",
             "type": "radio"
         },
-        "Tâmpa_DMRu": {
+        "Tampa_DMRu": {
             "banda": "70cm",
             "description": "<center>YO6NAM / Razvan<br/><b><a href='http://www.xpander.ro' target=_new>XPANDER</a></b></center>",
             "dist": 50,
@@ -1577,7 +1577,7 @@
             "tx_frq": "439.900",
             "type": "radio"
         },
-        "Tâmpa_DMRv": {
+        "Tampa_DMRv": {
             "banda": "2m",
             "description": "<center>YO6NAM / Razvan<br/><b><a href='http://www.xpander.ro' target=_new>XPANDER</a></b></center>",
             "dist": 50,
@@ -1598,7 +1598,7 @@
             "tx_frq": "145.725",
             "type": "radio"
         },
-        "Tâmpa_Echolink": {
+        "Tampa_Echolink": {
             "banda": "2m",
             "description": "<center>YO6NAM / Razvan<br/><b><a href='http://www.xpander.ro' target=_new>XPANDER</a></b></center>",
             "dist": 50,
@@ -1619,7 +1619,7 @@
             "tx_frq": "145.500",
             "type": "radio"
         },
-        "Tâmpa_UHF": {
+        "Tampa_UHF": {
             "banda": "70cm",
             "description": "<center>YO6NAM / Razvan<br/><b><a href='http://www.xpander.ro' target=_new>XPANDER</a></b></center>",
             "dist": 50,
