@@ -1101,8 +1101,8 @@
             "k_id": "n.a",
             "lat": 47.6620,
             "lon": 23.6922,
-            "name": "Gateway",
-            "nameA": "Gateway",
+            "name": "MM Gateway",
+            "nameA": "MM Gateway",
             "online": 1,
             "overlay": "maramures",
             "pl_in": "n/a",
@@ -1131,7 +1131,7 @@
             "portabil": 0,
             "rx_frq": "0",
             "shift": "-7.600",
-            "tip": "gateway",
+            "tip": "repetor",
             "tx_frq": "439.300",
             "type": "network"
         },
@@ -1152,7 +1152,7 @@
             "portabil": 0,
             "rx_frq": "0",
             "shift": "-7.600",
-            "tip": "gateway",
+            "tip": "repetor",
             "tx_frq": "439.375",
             "type": "network"
         },
