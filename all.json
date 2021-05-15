@@ -1244,7 +1244,7 @@
             "banda": "D-Star YO Network",
             "description": "<center>YO2KCB<br/><b><a href='http://www.dstar-yo.ro' target=_new>D-Star YO</a></b></center><br/>RPT1: YO2KCB B<br/>RPT2: YO2KCB G<br/>Reflector: XLX227",
             "dist": 50,
-            "functional": "inactiv",
+            "functional": "activ",
             "k_id": "n_a",
             "lat": 45.1828,
             "lon": 22.0534,
