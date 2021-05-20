@@ -170,7 +170,7 @@
         },
         "Boita_FreeDMR_YO2CK": {
             "banda": "FreeDMR YO Network",
-            "description": "<center>YO2CK / Cristi<br/><b><a href='http://www.dstar-yo.ro/freedmr.php' target=_new>FreeDMR YO</a><br><br><a href='https://2ck.ro' target=_new>2CK.RO</a></b></center><br/>TS1: <br/>TS2: 226, 2262, 22601, 22603",
+            "description": "<center>YO2CK / Cristi<br/><b><a href='http://www.dstar-yo.ro/freedmr.php' target=_new>FreeDMR YO</a><br><br><a href='https://2ck.ro' target=_new>2CK.RO</a><br><br><a href='https://2ck.ro' target=_new>2CK.RO</a></b></center><br/>TS1: <br/>TS2: 226, 2262, 22601, 22603",
             "dist": 50,
             "functional": "activ",
             "k_id": "n_a",
@@ -233,7 +233,7 @@
         },
         "Boita": {
             "banda": "SVX Net",
-            "description": "<center>YO2CK / Cristi</center>",
+            "description": "<center>YO2CK / Cristi<br><br><b><a href='https://2ck.ro' target=_new>2CK.RO</a></b></center>",
             "dist": 50,
             "functional": "activ",
             "k_id": "boita_v",
@@ -633,7 +633,7 @@
         },
         "Deva_YO2CK-B": {
             "banda": "D-Star YO Network",
-            "description": "<center>YO2CK / Cristi<br/><b><a href='http://www.dstar-yo.ro' target=_new>D-Star YO</a></b></center><br/>RPT1: YO2CK  B<br/>RPT2: YO2CK  G<br/>Reflector: XLXCAT",
+            "description": "<center>YO2CK / Cristi<br/><b><a href='http://www.dstar-yo.ro' target=_new>D-Star YO</a><br><br><a href='https://2ck.ro' target=_new>2CK.RO</a></b></center><br/>RPT1: YO2CK  B<br/>RPT2: YO2CK  G<br/>Reflector: XLXCAT",
             "dist": 50,
             "functional": "activ",
             "k_id": "n_a",
@@ -738,7 +738,7 @@
         },
         "Hateg_YO2CK-F": {
             "banda": "D-Star YO Network",
-            "description": "<center>YO2CK / Cristi<br/><b><a href='http://www.dstar-yo.ro' target=_new>D-Star YO</a></b></center><br/>RPT1: YO2CK  F<br/>RPT2: YO2CK  G<br/>Reflector: XLXCAT",
+            "description": "<center>YO2CK / Cristi<br/><b><a href='http://www.dstar-yo.ro' target=_new>D-Star YO</a><br><br><a href='https://2ck.ro' target=_new>2CK.RO</a></b></center><br/>RPT1: YO2CK  F<br/>RPT2: YO2CK  G<br/>Reflector: XLXCAT",
             "dist": 50,
             "functional": "activ",
             "k_id": "n_a",
@@ -759,7 +759,7 @@
         },
         "Boita_YO2CK-E": {
             "banda": "D-Star YO Network",
-            "description": "<center>YO2CK / Cristi<br/><b><a href='http://www.dstar-yo.ro' target=_new>D-Star YO</a></b></center><br/>RPT1: YO2CK  E<br/>RPT2: YO2CK  G<br/>Reflector: XLXCAT",
+            "description": "<center>YO2CK / Cristi<br/><b><a href='http://www.dstar-yo.ro' target=_new>D-Star YO</a><br><br><a href='https://2ck.ro' target=_new>2CK.RO</a></b></center><br/>RPT1: YO2CK  E<br/>RPT2: YO2CK  G<br/>Reflector: XLXCAT",
             "dist": 50,
             "functional": "activ",
             "k_id": "n_a",
