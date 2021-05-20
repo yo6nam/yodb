@@ -189,6 +189,27 @@
             "tx_frq": "433.6125",
             "type": "radio"
         },
+        "Semenic_FreeDMR_YO2KCB": {
+            "banda": "FreeDMR YO Network",
+            "description": "<center>YO2KCB / YO2LYN (Stefan)<br/><b><a href='http://www.dstar-yo.ro/freedmr.php' target=_new>FreeDMR YO</a></b></center><br/>TS1: 226, 112<br/>TS2: 2262, 22601, 9990",
+            "dist": 50,
+            "functional": "activ",
+            "k_id": "n_a",
+            "lat": 45.1828,
+            "lon": 22.0534,
+            "name": "Semenic, Vf. Goszna YO2KCB FreeDMR",
+            "nameA": "Semenic, Vf. Gozna YO2KCB FreeDMR",
+            "online": 1,
+            "overlay": "freedmr",
+            "pl_in": "",
+            "pl_out": "",
+            "portabil": 0,
+            "rx_frq": "",
+            "shift": "-7.6",
+            "tip": "repetor",
+            "tx_frq": "439.325",
+            "type": "radio"
+        },
         "Baicoi_UHF": {
             "banda": "Repetor UHF",
             "description": "<center></center>",
