@@ -168,6 +168,27 @@
             "tx_frq": "438.600",
             "type": "radio"
         },
+        "Boita_FreeDMR_YO2CK": {
+            "banda": "FreeDMR YO Network",
+            "description": "<center>YO7GQZ / Catalin<br/><b><a href='http://www.dstar-yo.ro/freedmr.php' target=_new>FreeDMR YO</a></b></center><br/>TS1: <br/>TS2: 226, 2262, 22601, 22603",
+            "dist": 50,
+            "functional": "activ",
+            "k_id": "n_a",
+            "lat": 45.6095,
+            "lon": 22.8202,
+            "name": "Boiţa FreeDMR YO2CK",
+            "nameA": "Boiţa FreeDMR YO2CK",
+            "online": 1,
+            "overlay": "freedmr",
+            "pl_in": "",
+            "pl_out": "",
+            "portabil": 0,
+            "rx_frq": "433.6125",
+            "shift": "0",
+            "tip": "simplex",
+            "tx_frq": "433.6125",
+            "type": "radio"
+        },
         "Baicoi_UHF": {
             "banda": "Repetor UHF",
             "description": "<center></center>",
