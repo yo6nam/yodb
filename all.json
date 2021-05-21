@@ -210,6 +210,27 @@
             "tx_frq": "439.325",
             "type": "radio"
         },
+        "TalvaMare_FreeDMR_YO2KJG": {
+            "banda": "FreeDMR YO Network",
+            "description": "<center>YO2KJG / YO2LYN (Stefan)<br/><b><a href='http://www.dstar-yo.ro/freedmr.php' target=_new>FreeDMR YO</a></b></center><br/>TS1: 226, 112<br/>TS2: 2262, 22601, 9990",
+            "dist": 50,
+            "functional": "activ",
+            "k_id": "n_a",
+            "lat": 45.072,
+            "lon": 21.938,
+            "name": "Talva Mare (Oraviţa) FreeDMR YO2KJG",
+            "nameA": "Talva Mare (Oraviţa) FreeDMR YO2KJG",
+            "online": 1,
+            "overlay": "freedmr",
+            "pl_in": "",
+            "pl_out": "",
+            "portabil": 0,
+            "rx_frq": "430.525",
+            "shift": "-9.4",
+            "tip": "repetor",
+            "tx_frq": "439.925",
+            "type": "radio"
+        },
         "Baicoi_UHF": {
             "banda": "Repetor UHF",
             "description": "<center></center>",
