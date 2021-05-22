@@ -172,7 +172,7 @@
             "banda": "FreeDMR YO Network",
             "description": "<center>YO2CK / Cristi<br/><b><a href='http://www.dstar-yo.ro/freedmr.php' target=_new>FreeDMR YO</a><br><br><a href='https://2ck.ro' target=_new>2CK.RO</a></b></center><br/>TS1: <br/>TS2: 226, 2262, 22601, 22603",
             "dist": 50,
-            "functional": "activ",
+            "functional": "inactiv",
             "k_id": "n_a",
             "lat": 45.6095,
             "lon": 22.8202,
