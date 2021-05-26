@@ -462,6 +462,27 @@
             "tx_frq": "439.900",
             "type": "radio"
         },
+        "Siscani_YO8D": {
+            "banda": "RVSU Network / DMR+",
+            "description": "<center><b><a href='http://www.rvsu.ro' target=_new>RVSU</a></b></center>TS1: 1, 2<br/>TS2: 226, 9",
+            "dist": 50,
+            "functional": "activ",
+            "k_id": "n_a",
+            "lat": 46.1529,
+            "lon": 27.1472,
+            "name": "Siscani YO8D",
+            "nameA": "Siscani YO8D",
+            "online": 1,
+            "overlay": "dmr_plus",
+            "pl_in": "",
+            "pl_out": "",
+            "portabil": 0,
+            "rx_frq": "431.900",
+            "shift": "-8.0",
+            "tip": "repetor",
+            "tx_frq": "439.900",
+            "type": "radio"
+        },
         "Bucuresti_YO3E": {
             "banda": "RVSU Network / DMR+",
             "description": "<center><b><a href='http://www.rvsu.ro' target=_new>RVSU</a></b></center>TS1: 1, 2<br/>TS2: 226, 9",
