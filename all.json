@@ -273,27 +273,6 @@
             "tx_frq": "431.3125",
             "type": "radio"
         },
-        "Boita": {
-            "banda": "SVX Net",
-            "description": "<center>YO2CK / Cristi<br><br><b><a href='https://2ck.ro' target=_new>2CK.RO</a></b></center>",
-            "dist": 50,
-            "functional": "activ",
-            "k_id": "boita_v",
-            "lat": 45.6095399,
-            "lon": 22.8202805,
-            "name": "Boiţa",
-            "nameA": "Boiţa",
-            "online": 1,
-            "overlay": "svx_net",
-            "pl_in": "103.5",
-            "pl_out": "",
-            "portabil": 0,
-            "rx_frq": "145.2875",
-            "shift": "0",
-            "tip": "simplex",
-            "tx_frq": "145.2875",
-            "type": "radio"
-        },
         "Borsec": {
             "banda": "SVX Net",
             "description": "<center>YO6FCD / Nelu</center>",
@@ -1890,6 +1869,27 @@
             "shift": "-7.6",
             "tip": "repetor",
             "tx_frq": "438.975",
+            "type": "radio"
+        },
+	"Vulcan": {
+            "banda": "SVX Net",
+            "description": "<center>YO2ARD / Daniel</center>",
+            "dist": 50,
+            "functional": "activ",
+            "k_id": "vulcan_v",
+            "lat": 45.3753,
+            "lon": 23.2931,
+            "name": "Vulcan HD",
+            "nameA": "Vulcan HD",
+            "online": 1,
+            "overlay": "svx_net",
+            "pl_in": "103.5",
+            "pl_out": "",
+            "portabil": 0,
+            "rx_frq": "145.2875",
+            "shift": "0",
+            "tip": "simplex",
+            "tx_frq": "145.2875",
             "type": "radio"
         }
     }
